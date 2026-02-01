@@ -30,3 +30,4 @@ Data Quality: Great Expectations
 Visualization: Power BI
 
 CI/CD: GitHub Actions
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/3edd0fc1-1e54-4a82-ad14-97d3629f62a3" />
