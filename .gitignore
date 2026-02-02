@@ -1,5 +1,3 @@
-.terraform
-.env
 # Terraform (local-only files)
 **/.terraform/
 *.tfstate
@@ -9,8 +7,15 @@ crash.*.log
 .terraformrc
 terraform.rc
 
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
 # Env files
 .env
 
-
-
+# OS/Editor
+.DS_Store
+.vscode/
