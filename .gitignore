@@ -1,0 +1,16 @@
+.terraform
+.env
+# Terraform (local-only files)
+**/.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+.terraformrc
+terraform.rc
+
+# Env files
+.env
+
+
+

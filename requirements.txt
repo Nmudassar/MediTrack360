@@ -1,0 +1,16 @@
+requests
+boto3
+hospital-platform/
+  terraform/
+    envs/
+      dev/
+        backend.hcl
+        terraform.tfvars
+    modules/
+      s3_datalake/
+      iam_roles/
+    main.tf
+    providers.tf
+    variables.tf
+    outputs.tf
+    versions.tf
