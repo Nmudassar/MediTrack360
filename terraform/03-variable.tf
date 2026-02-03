@@ -15,4 +15,5 @@ variable "environment" {
 
 variable "datalake_bucket_name" {
   type = string
+  default = "dev-med-project"
 }
